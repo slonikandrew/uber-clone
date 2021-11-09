@@ -18,7 +18,8 @@ const MapScreen = () => {
                         name="NavigateCard"
                         component={NavigateCard}
                         options={{
-                            headerShown: false
+                            headerShown: false 
+                            
                         }}
                     />
                 </Stack.Navigator>
